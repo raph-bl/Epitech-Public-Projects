@@ -1,3 +1,0 @@
-### voir les id de la db
-### Assez utile pour vérifier les failles de sécurité 
-GET http://localhost:3000/api/users/user/4
